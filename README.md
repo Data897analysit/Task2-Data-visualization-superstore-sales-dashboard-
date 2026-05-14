@@ -39,21 +39,18 @@ Sales and profit Margin by Categories:-
 
 Sale by shipping mode , product name , region
 
-               Standard Class shipping generated the highest sales (1,358K), while Same Day delivery had the lowest (128K). The West region showed the best profit margin (14.9%), and Canon imageCLASS 2200 led product sales.
-               
-Recommendation:
-
-Promote faster shipping for popular products and improve sales strategies in Central and South regions.
-
-Thank You
-Priyanshi
-Data Analyst
+Standard Class shipping generated the highest sales (1,358K), while Same Day delivery had the lowest (128K). The West region showed the best profit margin (14.9%), and Canon imageCLASS 2200 led product sales.
 
 Profit by category and region 
 
-         Technology and Office Supplies are the most profitable categories, while Furniture shows losses in the Central region. Copiers, Paper, and Labels deliver high margins, but Tables and Bookcases result in losses.
+Technology and Office Supplies are the most profitable categories, while Furniture shows losses in the Central region. Copiers, Paper, and Labels deliver high margins, but Tables and Bookcases result in losses.
 
 Recommendation:
 
 Focus on promoting high-margin subcategories like Copiers and Paper, reduce discounts on low-margin items, and review Furniture pricing and costs
 
+Thank You
+
+Priyanshi
+
+Data Analyst
